@@ -13,6 +13,9 @@ Bias localized to Federal Research Institutions for Federal NSF Dollars allocate
 
 Methods:
 - Create geocoded plot of US with institutions and NSF funding received
+-1. Geocode data from https://nces.ed.gov/programs/edge/Geographic/SchoolLocations
+-- Used 2016-2017 Post-secondary data
+- Merge list #25 from nsf website to the geocode data
 - Use Heatmap for funding ranges seperated by arbitrary increments (likely in $100M)
 - Geocodes are too tightly packed or use color glyph at zoom (Bokeh Datashader for region with glyphs)
 - NEED to consider edge cases such as UA MED PHX or UA MED TUCSON are split 
