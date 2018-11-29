@@ -27,4 +27,6 @@ Methods:
 ### Files of Interest 
 - Data files are split across years (1992 - 2016)
 
-## Notes
+## Notes on scripts
+- Fun with Mapping.ipynb (versions since 11/27/18 require Python 3.5 to work properly).  
+
