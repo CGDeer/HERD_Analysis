@@ -28,5 +28,8 @@ Methods:
 - Data files are split across years (1992 - 2016)
 
 ## Notes on scripts
-- Fun with Mapping.ipynb (versions since 11/27/18 require Python 3.5 to work properly).  
+- Fun with Mapping CBH ver.ipynb (versions since 11/27/18 require Python 3.5, (Py35), to work properly).  
+--The warning present does not pose a problem (just need to go back and shorten column name 'Institution' to something shorter in the data set to clear the warning. It did affect 'All Federal R&D' negatively so that column name has been changed to TOT_Fed.  The code doesnt seem to mind continuing use of 'Institution' later on in the script.  
+--HERD Survey NSF Colormap.ipynb is a descendant of this version also uses Py35
 
+-Joining HERD has not been tested under Py35 as I was still using Python 2.7, (Py27).
