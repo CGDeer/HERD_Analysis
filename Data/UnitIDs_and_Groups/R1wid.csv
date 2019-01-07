@@ -1,0 +1,116 @@
+UNITID,University,Type,City,State
+448886,Arizona State University,Public,Tempe,AZ
+164924,Boston College,Private (Non-profit),Chestnut Hill,MA
+164988,Boston University,Private (Non-profit),Boston,MA
+165015,Brandeis University,Private (Non-profit),Waltham,MA
+217156,Brown University,Private (Non-profit),Providence,RI
+110404,California Institute of Technology,Private (Non-profit),Pasadena,CA
+211440,Carnegie Mellon University,Private (Non-profit),Pittsburgh,PA
+201645,Case Western Reserve University,Private (Non-profit),Cleveland,OH
+217882,Clemson University,Public,Clemson,SC
+126818,Colorado State University,Public,Fort Collins,CO
+190150,Columbia University,Private (Non-profit),New York,NY
+190415,Cornell University,Private (Non-profit),Ithaca,NY
+198419,Duke University,Private (Non-profit),Durham,NC
+139658,Emory University,Private (Non-profit),Atlanta,GA
+133951,Florida International University,Public,Miami,FL
+134097,Florida State University,Public,Tallahassee,FL
+232186,George Mason University,Public,Fairfax,VA
+131469,George Washington University,Private (Non-profit),Washington,DC
+131496,Georgetown University,Private (Non-profit),Washington,DC
+139755,Georgia Institute of Technology,Public,Atlanta,GA
+139940,Georgia State University,Public,Atlanta,GA
+190576,"Graduate Center, CUNY",Public,New York,NY
+166027,Harvard University,Private (Non-profit),Cambridge,MA
+151351,Indiana University Bloomington,Public,Bloomington,IN
+153603,Iowa State University,Public,Ames,IA
+162928,Johns Hopkins University,Private (Non-profit),Baltimore,MD
+155399,Kansas State University,Public,Manhattan,KS
+159391,Louisiana State University,Public,Baton Rouge,LA
+166683,Massachusetts Institute of Technology,Private (Non-profit),Cambridge,MA
+171100,Michigan State University,Public,East Lansing,MI
+193900,New York University,Private (Non-profit),New York,NY
+199193,North Carolina State University,Public,Raleigh,NC
+167358,Northeastern University,Private (Non-profit),Boston,MA
+147767,Northwestern University,Private (Non-profit),Evanston,IL
+204796,Ohio State University,Public,Columbus,OH
+209542,Oregon State University,Public,Corvallis,OR
+214777,Pennsylvania State University,Public,University Park,PA
+186131,Princeton University,Private (Non-profit),Princeton,NJ
+243780,Purdue University,Public,West Lafayette,IN
+227757,Rice University,Private (Non-profit),Houston,TX
+186380,Rutgers University-New Brunswick,Public,New Brunswick,NJ
+243744,Stanford University,Private (Non-profit),Stanford,CA
+196097,Stony Brook University,Public,Stony Brook,NY
+196413,Syracuse University,Private (Non-profit),Syracuse,NY
+216339,Temple University,Public,Philadelphia,PA
+228723,Texas A&M University,Public,College Station,TX
+229115,Texas Tech University,Public,Lubbock,TX
+168148,Tufts University,Private (Non-profit),Medford,MA
+160755,Tulane University,Private (Non-profit),New Orleans,LA
+196060,"University at Albany, SUNY",Public,Albany,NY
+196088,University at Buffalo,Public,Buffalo,NY
+100663,University of Alabama at Birmingham,Public,Birmingham,AL
+104179,University of Arizona,Public,Tucson,AZ
+106397,University of Arkansas,Public,Fayetteville,AR
+110635,"University of California, Berkeley",Public,Berkeley,CA
+110644,"University of California, Davis",Public,Davis,CA
+110653,"University of California, Irvine",Public,Irvine,CA
+110662,"University of California, Los Angeles",Public,Los Angeles,CA
+110671,"University of California, Riverside",Public,Riverside,CA
+110680,"University of California, San Diego",Public,La Jolla,CA
+110705,"University of California, Santa Barbara",Public,Santa Barbara,CA
+110714,"University of California, Santa Cruz",Public,Santa Cruz,CA
+132903,University of Central Florida,Public,Orlando,FL
+144050,University of Chicago,Private (Non-profit),Chicago,IL
+201885,University of Cincinnati,Public,Cincinnati,OH
+126614,University of Colorado Boulder,Public,Boulder,CO
+129020,University of Connecticut,Public,Storrs,CT
+130943,University of Delaware,Public,Newark,DE
+134130,University of Florida,Public,Gainesville,FL
+139959,University of Georgia,Public,Athens,GA
+141574,University of Hawaii at Manoa,Public,Honolulu,HI
+225511,University of Houston,Public,Houston,TX
+145600,University of Illinois at Chicago,Public,Chicago,IL
+145637,University of Illinois at Urbana-Champaign,Public,Champaign,IL
+153658,University of Iowa,Public,Iowa City,IA
+155317,University of Kansas,Public,Lawrence,KS
+157085,University of Kentucky,Public,Lexington,KY
+157289,University of Louisville,Public,Louisville,KY
+163286,"University of Maryland, College Park",Public,College Park,MD
+166629,University of Massachusetts Amherst,Public,Amherst,MA
+135726,University of Miami,Private (Non-profit),Coral Gables,FL
+170976,University of Michigan,Public,Ann Arbor,MI
+174066,University of Minnesota,Public,Minneapolis,MN
+176017,University of Mississippi,Public,Oxford,MS
+178396,University of Missouri,Public,Columbia,MO
+181464,University of Nebraska-Lincoln,Public,Lincoln,NE
+187985,University of New Mexico,Public,Albuquerque,NM
+199120,University of North Carolina at Chapel Hill,Public,Chapel Hill,NC
+227216,University of North Texas,Public,Denton,TX
+152080,University of Notre Dame,Private (Non-profit),Notre Dame,IN
+207500,University of Oklahoma,Public,Norman,OK
+209551,University of Oregon,Public,Eugene,OR
+215062,University of Pennsylvania,Private (Non-profit),Philadelphia,PA
+215293,University of Pittsburgh,Public,Pittsburgh,PA
+195030,University of Rochester,Private (Non-profit),Rochester,NY
+218663,University of South Carolina,Public,Columbia,SC
+137351,University of South Florida,Public,Tampa,FL
+123961,University of Southern California,Private (Non-profit),Los Angeles,CA
+221759,University of Tennessee,Public,Knoxville,TN
+228769,University of Texas at Arlington,Public,Arlington,TX
+228778,University of Texas at Austin,Public,Austin,TX
+228787,University of Texas at Dallas,Public,Richardson,TX
+230764,University of Utah,Public,Salt Lake City,UT
+234076,University of Virginia,Public,Charlottesville,VA
+236948,University of Washington,Public,Seattle,WA
+240444,"University of Wisconsin, Madison",Public,Madison,WI
+240453,"University of Wisconsin, Milwaukee",Public,Milwaukee,WI
+221999,Vanderbilt University,Private (Non-profit),Nashville,TN
+234030,Virginia Commonwealth University,Public,Richmond,VA
+233921,Virginia Tech,Public,Blacksburg,VA
+236939,Washington State University,Public,Pullman,WA
+179867,Washington University in St. Louis,Private (Non-profit),Saint Louis,MO
+172644,Wayne State University,Public,Detroit,MI
+238032,West Virginia University,Public,Morgantown,WV
+130794,Yale University,Private (Non-profit),New Haven,CT
