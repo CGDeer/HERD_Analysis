@@ -1,0 +1,45 @@
+Format:
+____________
+Query Name
+{
+Query
+}
+_____________
+
+
+___________________
+R1_DST21
+{
+SELECT R1wid.*, DST21_cleaned.*
+
+from R1wid
+
+LEFT JOIN DST21_cleaned ON R1wid.UNITID= DST21_cleaned.UNITID
+
+}
+
+_________________
+DST21_ABOR_PEERS_UA
+{
+Select ABOR_Peers.*, DST21_cleaned.*
+
+From DST21_cleaned
+
+LEFT JOIN ABOR_Peers On DST21_cleaned.UNITID = ABOR_Peers.UNITID
+Where ABOR_Peers.Institution="UA"
+}
+__________________
+DST21_AAU
+{
+Select DST21_cleaned.*
+
+From AAUwid
+
+Left Join DST21_cleaned ON AAUwid.UNITID=DST21_cleaned.UNITID
+}
+__________________
+Attempt to add UnitID for John Hopkins using update
+{
+Update DST21_cleaned Set UNITID = '162928' Where DST21_cleaned.UNITID=1
+
+}

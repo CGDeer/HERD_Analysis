@@ -1,60 +1,63 @@
-UNITID,University,As Given By Slack,Control
-164988,Boston University,Georgia Institute of Technology, Private (Non-profit)
-165015,Brandeis University,Indiana University, Private (Non-profit)
-217156,Brown University,Iowa State University, Private (Non-profit)
-110404,California Institute of Technology,Michigan State University, Private (Non-profit)
-211440,Carnegie Mellon University,The Ohio State University, Private (Non-profit)
-201645,Case Western Reserve University,The Pennsylvania State University, Private (Non-profit)
-190150,Columbia University,Purdue University, Private (Non-profit)
-190415,Cornell University,Rutgers University ? New Brunswick, Private (Non-profit)
-198419,Duke University,Stony Brook University ? The State University of New York, Private (Non-profit)
-139658,Emory University,Texas A&M University, Private (Non-profit)
-139755,Georgia Institute of Technology,University of Arizona, Public
-166027,Harvard University,University at Buffalo ? The State University of New York, Private (Non-profit)
-151351,Indiana University,"University of California, Davis", Public
-153603,Iowa State University,"University of California, Berkeley", Public
-166683,Massachusetts Institute of Technology,"University of California, Irvine", Private (Non-profit)
-171100,Michigan State University,"University of California, Los Angeles", Public
-147767,Northwestern University,"University of California, San Diego", Private (Non-profit)
-186131,Princeton University,"University of California, Santa Barbara", Private (Non-profit)
-243780,Purdue University,"University of Colorado, Boulder", Public
-227757,Rice University,University of Florida, Private (Non-profit)
-186380,Rutgers University ? New Brunswick,University of Illinois at Urbana-Champaign, Public
-243744,Stanford University,The University of Iowa, Private (Non-profit)
-196097,Stony Brook University ? SUNY,The University of Kansas,Public
-228723,Texas A&M University,University of Maryland at College Park, Public
-162928,Johns Hopkins University,University of Michigan, Private (Non-profit)
-204796,Ohio State University,"University of Minnesota, Twin Cities", Public
-479956,Pennsylvania State University,"University of Missouri, Columbia", Public
-144050,University of Chicago,The University of North Carolina at Chapel Hill, Private (Non-profit)
-153658,University of Iowa,University of Oregon, Public
-155317,University of Kansas,University of Pittsburgh, Public
-199120,University of North Carolina at Chapel Hill,The University of Texas at Austin, Public
-228778,University of Texas at Austin ,University of Virginia,Public
-240444,University of Wisconsin ? Madison,University of Washington, Public
-160755,Tulane University,The University of Wisconsin, Private (Non-profit)
-196088,University at Buffalo ? SUNY,Boston University,Public
-104179,University of Arizona,Brandeis University, Public
-110635,University of California-Berkeley,Brown University, Public
-110644,University of California-Davis,California Institute of Technology, Public
-110653,University of California-Irvine,Carnegie Mellon University, Public
-110662,University of California-Los Angeles,Case Western Reserve University, Public
-110680,University of California-San Diego,Columbia University, Public
-110705,University of California-Santa Barbara,Cornell University, Public
-126614,University of Colorado Boulder,Duke University, Public
-134130,University of Florida,Emory University, Public
-145637,University of Illinois at Urbana-Champaign,Harvard University, Public
-163286,University of Maryland at College Park,The Johns Hopkins University, Public
-170976,University of Michigan,Massachusetts Institute of Technology, Public
-176017,University of Minnesota-Twin Cities,Northwestern University, Public
-178396,University of Missouri-Columbia,Princeton University, Public
-209551,University of Oregon,Rice University, Public
-215062,University of Pennsylvania,Stanford University, Private (Non-profit)
-215293,University of Pittsburgh,Tulane University, Public
-195030,University of Rochester,The University of Chicago, Private (Non-profit)
-123961,University of Southern California,University of Pennsylvania, Private (Non-profit)
-234076,University of Virginia,University of Rochester, Public
-236948,University of Washington,University of Southern California, Public
-221999,Vanderbilt University,"Vanderbilt University, Private", Private (Non-profit)
+UNITID,University,CopyUniv,Control
+164988,Boston University,Boston University, Private (Non-profit)
+165015,Brandeis University,Brandeis University, Private (Non-profit)
+217156,Brown University,Brown University, Private (Non-profit)
+110404,California Institute of Technology,California Institute of Technology, Private (Non-profit)
+211440,Carnegie Mellon University,Carnegie Mellon University, Private (Non-profit)
+201645,Case Western Reserve University,Case Western Reserve University, Private (Non-profit)
+190150,Columbia University,Columbia University, Private (Non-profit)
+190415,Cornell University,Cornell University, Private (Non-profit)
+198419,Duke University,Duke University, Private (Non-profit)
+139658,Emory University,Emory University, Private (Non-profit)
+139755,Georgia Institute of Technology,Georgia Institute of Technology, Public
+166027,Harvard University,Harvard University, Private (Non-profit)
+151351,Indiana University,Indiana University, Public
+153603,Iowa State University,Iowa State University, Public
+166683,Massachusetts Institute of Technology,Massachusetts Institute of Technology, Private (Non-profit)
+171100,Michigan State University,Michigan State University, Public
+147767,Northwestern University,Northwestern University, Private (Non-profit)
+186131,Princeton University,Princeton University, Private (Non-profit)
+243780,Purdue University,Purdue University, Public
+227757,Rice University,Rice University, Private (Non-profit)
+186380,Rutgers University ? New Brunswick,Rutgers University ? New Brunswick, Public
+243744,Stanford University,Stanford University, Private (Non-profit)
+196097,Stony Brook University ? SUNY,Stony Brook University ? SUNY,Public
+228723,Texas A&M University,Texas A&M University, Public
+162928,Johns Hopkins University,Johns Hopkins University, Private (Non-profit)
+204796,Ohio State University,Ohio State University, Public
+479956,Pennsylvania State University,Pennsylvania State University, Public
+144050,University of Chicago,University of Chicago, Private (Non-profit)
+153658,University of Iowa,University of Iowa, Public
+155317,University of Kansas,University of Kansas, Public
+199120,University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill, Public
+228778,University of Texas at Austin ,University of Texas at Austin ,Public
+240444,University of Wisconsin ? Madison,University of Wisconsin ? Madison, Public
+160755,Tulane University,Tulane University, Private (Non-profit)
+196088,University at Buffalo ? SUNY,University at Buffalo ? SUNY,Public
+104179,University of Arizona,University of Arizona, Public
+110635,University of California-Berkeley,University of California-Berkeley, Public
+110644,University of California-Davis,University of California-Davis, Public
+110653,University of California-Irvine,University of California-Irvine, Public
+110662,University of California-Los Angeles,University of California-Los Angeles, Public
+110680,University of California-San Diego,University of California-San Diego, Public
+110705,University of California-Santa Barbara,University of California-Santa Barbara, Public
+126614,University of Colorado Boulder,University of Colorado Boulder, Public
+134130,University of Florida,University of Florida, Public
+145637,University of Illinois at Urbana-Champaign,University of Illinois at Urbana-Champaign, Public
+163286,University of Maryland at College Park,University of Maryland at College Park, Public
+170976,University of Michigan,University of Michigan, Public
+176017,University of Minnesota-Twin Cities,University of Minnesota-Twin Cities, Public
+178396,University of Missouri-Columbia,University of Missouri-Columbia, Public
+209551,University of Oregon,University of Oregon, Public
+215062,University of Pennsylvania,University of Pennsylvania, Private (Non-profit)
+215293,University of Pittsburgh,University of Pittsburgh, Public
+195030,University of Rochester,University of Rochester, Private (Non-profit)
+123961,University of Southern California,University of Southern California, Private (Non-profit)
+234076,University of Virginia,University of Virginia, Public
+236948,University of Washington,University of Washington, Public
+221999,Vanderbilt University,Vanderbilt University, Private (Non-profit)
 179867,Washington University in St. Louis,Washington University in St. Louis, Private (Non-profit)
 130794,Yale University,Yale University, Private (Non-profit)
+448886,Arizona State U.,Arizona State U.,Public
+104179,U. Arizona,U. Arizona,Public
+105330,Northern Arizona U.,Northern Arizona U.,Public
